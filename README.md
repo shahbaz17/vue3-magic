@@ -1,5 +1,7 @@
 # vue3-magic
 
+Vue 3 and [Magic](https://magic.link) demo application.
+
 ## Project setup
 ```
 npm install
